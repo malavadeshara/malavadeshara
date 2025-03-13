@@ -63,11 +63,11 @@
 </p> -->
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="malavadeshara15124@gmail.com">
+  <a href="mailto:malavadeshara15124@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/malav-adeshara">
+  <a href="https://www.linkedin.com/in/malav-adeshara" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
